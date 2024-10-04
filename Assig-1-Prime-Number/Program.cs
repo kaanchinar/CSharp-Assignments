@@ -1,5 +1,9 @@
 ﻿using System;
 
+namespace Assig_1_Prime_number
+{
+
+
 class Program
 {
     static void Main()
@@ -42,5 +46,7 @@ class Program
         }
 
         return true;
+
     }
+}
 }
